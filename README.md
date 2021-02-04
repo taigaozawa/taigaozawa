@@ -1,7 +1,10 @@
 # Taiga Ozawa / 小澤 泰河
 
-A graduate student at University of Tsukuba (M1) studying physics / 筑波大学 修士1年（物理）
-Working at DWANGO and RIT Inc.
+A graduate student at University of Tsukuba (M1) majoring in physics
+所属: 筑波大学 修士1年（物理）
+
+Working at DWANGO Co., Ltd. and RIT Inc.
+勤務先: 株式会社ドワンゴ、株式会社RIT
 
 
 <!--
