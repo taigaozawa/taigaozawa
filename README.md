@@ -3,7 +3,7 @@
 🌱　A graduate student at University of Tsukuba (M1) majoring in physics<br>
 🔭　所属: 筑波大学 修士1年（物理）
 
-🖥　Working at [DWANGO Co., Ltd.](en.dwango.co.jp) and [RIT Inc.](rit-inc.co.jp)<br>
+🖥　Working at [DWANGO Co., Ltd.](dwango.co.jp/english) and [RIT Inc.](rit-inc.co.jp)<br>
 💬　勤務先: [株式会社ドワンゴ](dwango.co.jp) / [株式会社RIT](rit-inc.co.jp)
 
 📫　My web page: [taigaozawa.net](taigaozawa.net)<br>
