@@ -7,7 +7,6 @@ Working at DWANGO Co., Ltd. and RIT Inc.<br>
 勤務先: 株式会社ドワンゴ、株式会社RIT
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=taigaozawa)
-![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=taigaozawa&layout=compact)
 
 <!--
 **taigaozawa/taigaozawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
