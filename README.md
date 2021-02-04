@@ -4,7 +4,7 @@
 🔭　所属: 筑波大学 修士1年（物理）
 
 🖥　Working at DWANGO Co., Ltd. and RIT Inc.<br>
-💬　勤務先: 株式会社ドワンゴ、株式会社RIT
+💬　勤務先: [株式会社ドワンゴ](dwango.co.jp)、[株式会社RIT](rit-inc.co.jp)
 
 📫　My web page: [taigaozawa.net](taigaozawa.net)<br>
 👀　個人 Web ページ: [taigaozawa.net](taigaozawa.net)
