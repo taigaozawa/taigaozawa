@@ -1,10 +1,13 @@
 # Taiga Ozawa / 小澤 泰河
 
-A graduate student at University of Tsukuba (M1) majoring in physics<br>
-所属: 筑波大学 修士1年（物理）
+🌱 A graduate student at University of Tsukuba (M1) majoring in physics<br>
+🔭 所属: 筑波大学 修士1年（物理）
 
-Working at DWANGO Co., Ltd. and RIT Inc.<br>
-勤務先: 株式会社ドワンゴ、株式会社RIT
+🖥 Working at DWANGO Co., Ltd. and RIT Inc.<br>
+💬 勤務先: 株式会社ドワンゴ、株式会社RIT
+
+📫 My web page: [taigaozawa.net](taigaozawa.net)<br>
+👀 個人 Web ページ: [taigaozawa.net](taigaozawa.net)
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=taigaozawa)
 
