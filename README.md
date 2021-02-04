@@ -6,6 +6,8 @@ A graduate student at University of Tsukuba (M1) majoring in physics<br>
 Working at DWANGO Co., Ltd. and RIT Inc.<br>
 勤務先: 株式会社ドワンゴ、株式会社RIT
 
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=taigaozawa)
+
 
 <!--
 **taigaozawa/taigaozawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
