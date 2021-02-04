@@ -9,7 +9,7 @@
 📫　My web page: [taigaozawa.net](taigaozawa.net)<br>
 👀　個人 Web ページ: [taigaozawa.net](taigaozawa.net)
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=taigaozawa)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=taigaozawa&theme=cobalt)
 
 <!--
 **taigaozawa/taigaozawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
