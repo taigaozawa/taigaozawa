@@ -1,12 +1,12 @@
 # Taiga Ozawa / 小澤 泰河
 
-🌱　**A graduate student** at [University of Tsukuba](https://www.tsukuba.ac.jp/) (M1) majoring in physics<br>
+🌱　*A graduate student* at [University of Tsukuba](https://www.tsukuba.ac.jp/) (M1) majoring in physics<br>
 🔭　**所属**: [筑波大学](https://www.tsukuba.ac.jp/en)修士1年（物理）
 
-🖥　**Working** at [DWANGO Co., Ltd.](https://dwango.co.jp/english) and [RIT Inc.](https://rit-inc.co.jp)<br>
+🖥　*Working* at [DWANGO Co., Ltd.](https://dwango.co.jp/english) and [RIT Inc.](https://rit-inc.co.jp)<br>
 💬　**勤務先**: [株式会社ドワンゴ](https://dwango.co.jp) / [株式会社RIT](https://rit-inc.co.jp)
 
-📫　**For details**, see [taigaozawa.net](https://taigaozawa.net)<br>
+📫　*For details*, see [taigaozawa.net](https://taigaozawa.net)<br>
 👀　**個人 Web ページ**: [taigaozawa.net](https://taigaozawa.net)
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=taigaozawa&theme=cobalt)
