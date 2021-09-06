@@ -1,7 +1,7 @@
 # Taiga Ozawa / 小澤 泰河
 
-🌱　*A graduate student* at [University of Tsukuba](https://www.tsukuba.ac.jp/) (M1) majoring in physics<br>
-🔭　**所属**: [筑波大学](https://www.tsukuba.ac.jp/en)修士1年（物理学）
+🌱　*A graduate student* at [University of Tsukuba](https://www.tsukuba.ac.jp/) (M2) majoring in physics<br>
+🔭　**所属**: [筑波大学](https://www.tsukuba.ac.jp/en)修士2年（物理学）
 
 🖥　*Working* at [DWANGO Co., Ltd.](https://dwango.co.jp/english)<br>
 💬　**勤務先**: [株式会社ドワンゴ](https://dwango.co.jp)
